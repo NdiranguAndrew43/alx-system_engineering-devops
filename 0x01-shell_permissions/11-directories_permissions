@@ -1,2 +1,2 @@
 #!/bin/bash
-chhmod -R ugo-X
+chhmod -R ugo-X .
